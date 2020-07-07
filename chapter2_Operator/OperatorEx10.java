@@ -28,6 +28,7 @@ public class OperatorEx10 {
 		String msg1;
 		msg1 = (가<=a)&&(a<=힟)?"한글입니다":"한글이 아닙니다"; 
 		//변수 a를 아스킷코드 한글의 시작에있는 '가'와 끝에있는 '힟'에 비교해 한글인지 아닌지  비교하고있다.
+		
 		System.out.println("msg:"+msg1);
 	}
 

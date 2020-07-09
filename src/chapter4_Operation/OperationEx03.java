@@ -28,7 +28,7 @@ public class OperationEx03 {
 		case 5 :
 			System.out.println("5를 입력하였습니다");
 			break;
-		default : //만약 case의 값에 없다면 default문에 걸려 
+		default : //만약 case의 값에 없다면 default문에 걸려 switch case 문을 벗어나게된다.
 			System.out.println("1 ~ 5숫자중에 입력하세요");
 		}
 		
